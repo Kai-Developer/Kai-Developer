@@ -1,4 +1,3 @@
-### Hi There, my name is [CENSORED] but you can call me Kai. I'm JavaScript Programmer. I'm Learn HTML5 & CSS3.
 
 ## I am a person who develops software with a focus on JavaScript.
 
