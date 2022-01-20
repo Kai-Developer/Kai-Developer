@@ -2,7 +2,7 @@
 ## I am a person who develops software with a focus on JavaScript.
 
 - I am currently focused on using discord.js to make a Discord bot.
-- 2021 Goals: Publishing my Discord bot and opening the website.
+- 2021 Goals: Publishing my Discord bot and opening the website. (failed..)
 
 
 <br />
